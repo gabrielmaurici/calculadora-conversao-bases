@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1618530403 source:c:\users\gabriel\documents\c++\calculadora de conversões oficial\calculadora\main.cpp
+	<iostream>
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	<math.h>
+

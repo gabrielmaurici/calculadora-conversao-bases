@@ -1,10 +1,10 @@
 # Calculadora de Conversão de Bases
 
-Calculadora  C++ em desenvolvimento para trabalho de faculdade, conversão de bases decimal, binário, octal e hexadecimal.
+Calculadora  em C++  para trabalho de faculdade, conversão de bases.
 
-### Primeira parte do  trabalho
+### Requisitos do trabalho:
 
 - Menu da calculadora.
-- Conversão da base decimal para binário.
-- Calculadora em Loop. 
-
+- Conversão da base decimal para binário e binário para decimal.
+- Programa rodando em loop.
+- Finalização do programa com input do usuário.
